@@ -54,8 +54,9 @@ Additionally, I have created a simple front and rear wing in CAD , to demonstrat
 ---
 
 ## Contact
-- **LinkedIn**: [Click Here](#)  
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/imaad-javaid-854941369)  
 - **Email**: [Imaad.Javaid@outlook.com](mailto:Imaad.Javaid@outlook.com)  
 - **Alternate Email**: [Imaadjav@gmail.com](mailto:Imaadjav@gmail.com)  
 - **Phone**: 07305434444  
-- **GitHub**: [Your GitHub Profile](#)  
+- [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IJF1)
+ 
